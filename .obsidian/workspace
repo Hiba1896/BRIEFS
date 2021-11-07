@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "8c4d1197d6becc31",
+    "type": "split",
+    "children": [
+      {
+        "id": "928660a498c3b9e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BRIEF-Safe-Or-Not-Safe.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95669d7f7e02e026",
+    "type": "split",
+    "children": [
+      {
+        "id": "2435c110f1472d3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0df43e6aa1afb2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "87a464fae52890ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240
+  },
+  "right": {
+    "id": "1b31df94ecea269b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1ea626296457d4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d68a65ef493f2bbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BRIEF-Safe-Or-Not-Safe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "928660a498c3b9e7",
+  "lastOpenFiles": [
+    "BRIEF-Safe-Or-Not-Safe.md",
+    "BRIEF OSINT PROXMOX - Corentin Jihene Hiba.md",
+    "BRIEF ANSIBLE PROXMOX-Corentin Jihene Hiba-Cyberlab 6.md",
+    "BRIEF-VPN.md",
+    "BRIEF ANSIBLE PROXMOX-Corentin Jihene Hiba-Cyberlab 6 - Copie.md",
+    "BRIEF ANSIBLE PROXMOX.md",
+    "5-stptotalynotajoke.md",
+    "Sans titre 1.md",
+    "Cyber.md",
+    "TSSR.md"
+  ]
+}
